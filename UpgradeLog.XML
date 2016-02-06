@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wlinee">
+</Property><Property Name="ソリューション ファイル" Value="E:\Projects\wlinee\wlinee.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="E:\Projects\wlinee\wlinee.suo">
+</Property><Property Name="Date" Value="2008年10月10日">
+</Property><Property Name="Time" Value="19:21">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="wlinee.sln" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="wlinee.suo" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee.csproj" Description="プロジェクト ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\wlinee.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee.csproj.user" Description="プロジェクト ユーザー ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\wlinee.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Form1.cs" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Form1.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Form1.Designer.cs" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Form1.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Program.cs" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Program.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Properties\AssemblyInfo.cs" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Properties\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Properties\Resources.Designer.cs" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Properties\Settings.Designer.cs" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Properties\Settings.settings" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee_TemporaryKey.pfx" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\wlinee_TemporaryKey.pfx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Form1.resx" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Form1.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\Properties\Resources.resx" Description="ファイルは正常に E:\Projects\wlinee.bak\Backup\wlinee\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="wlinee" Source="wlinee\wlinee.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wlinee.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="wlinee.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

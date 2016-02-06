@@ -1,0 +1,14 @@
+D:\Pj\wlinee\wlinee\Debug\wlinee.exe.config
+D:\Pj\wlinee\wlinee\obj\Debug\wlinee.exe
+D:\Pj\wlinee\wlinee\obj\Debug\wlinee.pdb
+D:\Pj\wlinee\wlinee\Debug\wlinee.exe.manifest
+D:\Pj\wlinee\wlinee\Debug\wlinee.application
+D:\Pj\wlinee\wlinee\Debug\wlinee.exe
+D:\Pj\wlinee\wlinee\Debug\wlinee.pdb
+D:\Pj\wlinee\wlinee\obj\Debug\ResolveAssemblyReference.cache
+D:\Pj\wlinee\wlinee\obj\Debug\wlinee.wlinee.resources
+D:\Pj\wlinee\wlinee\obj\Debug\wlinee.Properties.Resources.resources
+D:\Pj\wlinee\wlinee\obj\Debug\GenerateResource.read.1.tlog
+D:\Pj\wlinee\wlinee\obj\Debug\GenerateResource.write.1.tlog
+D:\Pj\wlinee\wlinee\obj\Debug\wlinee.exe.manifest
+D:\Pj\wlinee\wlinee\obj\Debug\wlinee.application

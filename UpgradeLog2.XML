@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="wlinee">
+</Property><Property Name="ソリューション ファイル" Value="D:\Pj\wlinee\wlinee.sln">
+</Property><Property Name="Date" Value="2010年7月29日">
+</Property><Property Name="Time" Value="12:00">
+</Property><Property Name="ログ番号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="wlinee" Source="wlinee\wlinee.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="wlinee.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="wlinee.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="wlinee" Source="wlinee\wlinee.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
